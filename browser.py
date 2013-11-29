@@ -23,3 +23,4 @@ print cut_data,'\n'
 print 'Charaters Shown: 3000\n'
 print 'Characters: ',len(rdata),'\n'
 print 'Lines: ',line_count,'\n'
+print
